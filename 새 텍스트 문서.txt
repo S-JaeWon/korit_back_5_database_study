@@ -1,0 +1,8 @@
+프로젝트 우클릭 - properties - java build path - Libraries - Moduelpath - jre system Library [JavaSE-11]
+
+mysql connections 옆 + 아이콘
+-> 
+connection name: aws_rds
+hostname: mysql-db.c9ouoiu00n8i.ap-northeast-2.rds.amazonaws.com
+username: aws
+password: 1q2w3e4r!!
