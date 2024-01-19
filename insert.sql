@@ -12,3 +12,4 @@ insert into
 values 
 	(0, '홍길동', null, null), 
 	(0, '철수', null, null); 
+    
