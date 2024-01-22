@@ -52,3 +52,8 @@ left outer join
 	student_address_sigungu_tb sat2
     on(sat2.student_address_sigungu_id = srt.student_address_sigungu_id);
     
+    select
+    *
+    from
+    student_register_tb srt;
+    
