@@ -5,7 +5,7 @@ set @p_insert_book_stats = 0;
 
 call p_insert_book(@book_name, @author_name, @publisher_name, @p_insert_book_stats);
 
-# 괄호 안에 값 바로 대입 가능
+# 괄호 안에 값 바로 대입 가능p_get_auto_increment
 
 select
 	*
